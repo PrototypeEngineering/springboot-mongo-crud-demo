@@ -1,0 +1,6 @@
+spring.application.name: springboot-mongo-service
+
+server.port: 8056
+
+spring.data.mongodb.database: datasaver
+spring.data.mongodb.uri: mongodb://127.0.0.1:27017/datasaver
